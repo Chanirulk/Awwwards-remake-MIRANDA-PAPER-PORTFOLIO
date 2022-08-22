@@ -1,0 +1,164 @@
+.nine{
+    height: 100vh; 
+}
+.nine-line{
+    margin-top: 20%;
+    width: 100%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.nine-line-two{
+    margin-top: 35%;
+    left: 25%;
+    width: 20%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.nine-line-three{
+    margin-top: 35%;
+    right: 25%;
+    width: 20%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.nine-block{
+    position: absolute;
+    height: 150px;
+    width: 400px;
+    left: 2%;
+    margin-top: 25%;
+}
+.nine-block-two{
+    position: absolute;
+    height: 150px;
+    width: 400px;
+    right: 3%;
+    margin-top: 25%;
+}
+.nine-fill{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.tagr-one{
+    position: absolute;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #1c1b19;
+    font-family: gramnarrow;
+    left: 2.5%;
+    margin-top: 36%;
+}
+.tagr-two{
+    position: absolute;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #1c1b19;
+    font-family: gramnarrow;
+    right: 19%;
+    margin-top: 36%;
+}
+.new-org-nine{
+    position: absolute;
+    height: 30px;
+    width: 55px;
+    background-color: #df7853;
+    left: 15.5%;
+    border-radius: 10px;
+    margin-top: 36.2%;
+}
+.new-org-nine-two{
+    position: absolute;
+    height: 30px;
+    width: 55px;
+    background-color: #df7853;
+    right: 14.9%;
+    border-radius: 10px;
+    margin-top: 36.2%;
+}
+.new-nine{
+    position: absolute;
+    color: #c5bdb4;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-family: scari;
+    letter-spacing: -3px;
+    margin-top: 36.55%;
+    left: 15.95%;
+}
+.new-nine-two{
+    position: absolute;
+    color: #c5bdb4;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-family: scari;
+    letter-spacing: -3px;
+    margin-top: 36.55%;
+    right: 15.6%;
+}
+.nine-des-think{
+    position: absolute;
+    font-size: 1.3em;
+    color: #1c1b19;
+    font-family: gramlight;
+    margin-top: 39%;
+    left: 2.5%;
+}
+.nine-des-think-two{
+    position: absolute;
+    font-size: 1.3em;
+    color: #1c1b19;
+    font-family: gramlight;
+    margin-top: 39%;
+    right: 3.5%;
+}
+.cap-work{
+    position: absolute;
+    font-family: scari;
+    text-transform: uppercase;
+    color: #1c1b19;
+    font-size: 5em;
+    margin-top: 26%;
+    left: 37%;
+}
+.credit{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 33%;
+    left: 37%;
+    font-family: gramlight;
+}
+.here{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 43%;
+    left: 44%;
+    font-family: gramlight;
+    text-decoration: none;
+}
+.here::before {
+  content: "";
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 2px;
+  top: 60px;
+  left: 0;
+  background-color: #1c1b19;
+  transform: scaleX(1);
+  transition: transform 0.3s ease;
+}
+.here:hover::before {
+  transform: scaleX(0);
+}

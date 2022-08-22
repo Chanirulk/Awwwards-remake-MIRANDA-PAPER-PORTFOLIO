@@ -1,0 +1,210 @@
+.fourth{
+    height: 100vh; 
+}
+.four-bloc{
+    position: absolute;
+    background-color: #1c1b19;
+    height: 320px;
+    width: 960px;
+    left: 2%;
+    margin-top: 5%;
+}
+.web{
+    position: absolute;
+    color: #c5bdb4;
+    text-transform: uppercase;
+    font-family: scari;
+    font-size: 16em;
+    margin-top: 11%;
+    left: 5%;
+    font-stretch: extra-expanded;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.stamp{
+    height: auto;
+    width: 280px;
+    position: absolute;
+    margin-top: 3.98%;
+    right: 2%;
+}
+.four-line{
+    margin-top: 40%;
+    left:21%;
+    width: 23%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.latest{
+    position: absolute;
+    font-size: 4.4em;
+    font-family: scari;
+    color: #1c1b19;
+    margin-top: 30%;
+    left: 2%;
+    text-transform: uppercase;
+    letter-spacing: -5px;
+}
+.des-lat{
+    position: absolute;
+    font-family: gramlight;
+    font-size: 3em;
+    color: #1c1b19;
+    margin-top: 35%;
+    left: 2%;
+}
+.tip{
+    position: absolute;
+    color: #1c1b19;
+    letter-spacing: -2px;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    margin-top: 50%;
+    font-family: scari;
+    left: 2%;
+}
+.tp-des{
+    position: absolute;
+    font-family: gramlight;
+    color: #1c1b19;
+    font-size: 2em;
+    margin-top: 50%;
+    left: 6.5%;
+}
+.four-line-two{
+    margin-top: 61%;
+    left: 36%;
+    width: 65%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.yell-blocl{
+    position: absolute;
+    height: 155px;
+    width: 400px;
+    margin-top:30%;
+    left: 35%;
+}
+.yell-fill{
+    position: absolute;
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
+.think{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 3em;
+    margin-top: 43%;
+    left: 35%;
+    text-transform: uppercase;
+    font-family: scari;
+    letter-spacing: -3px;
+}
+.new-org{
+    position: absolute;
+    height: 38px;
+    width: 60px;
+    background-color: #df7853;
+    margin-top: 43%;
+    left: 47%;
+    border-radius: 10px;
+}
+.new{
+    position: absolute;
+    color: #c5bdb4;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-family: scari;
+    letter-spacing: -3px;
+    margin-top: 43.5%;
+    left: 47.6%;
+}
+.new-des-think{
+    position: absolute;
+    font-size: 1.3em;
+    color: #1c1b19;
+    font-family: gramlight;
+    margin-top: 46.3%;
+    left: 35.5%;
+}
+.four-lin{
+    margin-top: 34%;
+    right: 2%;
+    width: 28%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.text-head-one{
+    position: absolute;
+    color: #1c1b19;
+    letter-spacing: -5px;
+    font-family: scari;
+    font-size: 5.3em;
+    margin-top: 34%;
+    right: 2%;
+    text-transform: uppercase;
+}
+.four-lin-del{
+    margin-top: 46%;
+    right: 2%;
+    width: 28%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.delivery{
+    color: #1c1b19;
+    position: absolute;
+    font-family: scari;
+    font-size: 8.5em;
+    margin-top: 42%;
+    right: 1%;
+    text-transform: uppercase;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.block-a-four{
+    position: absolute;
+    height: 98px;
+    width: 62px;
+    background-color: #1c1b19;
+    right: 26%;
+    margin-top: 53%;
+}
+.block-a-let-four{
+    position: relative;
+    text-transform: uppercase;
+    color: #c5bdb4;
+    font-size: 6em;
+    font-family: albaz;
+    margin-top: 1%;
+    left: 5%;
+}
+.go-des{
+    position: absolute;
+    font-size: 2em;
+    color: #1c1b19;
+    font-family: gramlight;
+    margin-top: 52.5%;
+    right: 4%;
+}
+.go-des-two{
+    position: absolute;
+    font-size: 2em;
+    color: #1c1b19;
+    font-family: gramlight;
+    margin-top: 60.5%;
+    right: 5.5%;
+}

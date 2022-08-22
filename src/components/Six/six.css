@@ -1,0 +1,97 @@
+.six{
+    height: 100vh;
+}
+.six-line{
+    margin-top: 6%;
+    width: 100%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.column {
+  position: relative;
+  left: 10px;
+  top: 150px;
+  float: left;
+  width: 23%;
+  padding: 10px;
+  height: 130px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.sotd{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 2em;
+    font-family: gramlight;
+    text-transform: uppercase;
+}
+.st-head{
+    position: absolute;
+    font-size: 4em;
+    color: #1c1b19;
+    font-family: scari;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    top: 50px;
+    left: 10px;
+}
+.num{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 10em;
+    font-family: scari;
+    right: 50px;
+}
+.sotd-two{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 2em;
+    font-family: gramlight;
+    text-transform: uppercase;
+    left: 20px;
+}
+.st-head-two{
+    position: absolute;
+    font-size: 4.6em;
+    color: #1c1b19;
+    font-family: scari;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    top: 50px;
+    left: 20px;
+}
+.num-two{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 10em;
+    font-family: scari;
+    right: 30px;
+
+}
+.num-four{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 10em;
+    font-family: scari;
+    right: 20px;
+
+}
+.sotd-three{
+    position: absolute;
+    color: #1c1b19;
+    font-size: 2em;
+    font-family: gramlight;
+    text-transform: uppercase;
+    left: 20px;
+}
+.six-line-two{
+    margin-top: 8%;
+    width: 100%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}

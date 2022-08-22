@@ -1,0 +1,65 @@
+.second{
+    height: 100vh;
+}
+.sec-line{
+    margin-top: 16%;
+    left: 3%;
+    width: 33%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.sec-line-two{
+    margin-top: 30%;
+    left: 3%;
+    width: 30%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.sec-line-three{
+    margin-top: 53%;
+    left: 2%;
+    width: 80%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.inter{
+    margin-top: 15%;
+    left: 2.3%;
+    font-family: scari;
+    font-size: 6.9em;
+    text-transform: uppercase;
+    position: absolute;
+    color: #1c1b19;
+    letter-spacing: -5px;
+}
+.artist{
+    position: absolute;
+    margin-top: 25%;
+    left: 2%;
+    font-size: 10em;
+    color: #1c1b19;
+    text-transform: uppercase;
+    font-family: scari;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.pic-bay{
+    position: absolute;
+    margin-top: 15%;
+    right: 2%;
+    height: 510px;
+    width: 750px;
+}
+.face{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

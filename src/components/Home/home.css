@@ -1,0 +1,165 @@
+.home{
+    height: 100vh;
+}
+.logo{
+    position: absolute;
+    height: auto;
+    width: 200px;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hamburger {
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50px;
+  height: 10px;
+  cursor: pointer;
+  right: 1%;
+  top: 5%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  z-index: 2;
+}
+.hamburger div {
+  align-self: flex-end;
+  height: 3px;
+  width: 100%;
+  background: #1c1b19;
+}
+.hamburger .meat {
+  width: 100%;
+  transition: all 200ms ease-in-out;
+}
+.hamburger:hover div {
+  width: 100%;
+}
+.hamburger:hover .top-bun {
+  animation: burger-hover 1s infinite ease-in-out alternate;
+}
+.hamburger:hover .meat {
+  animation: burger-hover 1s infinite ease-in-out alternate forwards 200ms;
+}
+@keyframes burger-hover {
+  0% { width: 100%; }
+  50% { width: 50%; }
+  100% { width: 100%; }
+}
+.location{
+    position: absolute;
+    font-size: 1.5em;
+    font-family: gramlight;
+    color: #1c1b19;
+    left: 9%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+}
+.line{
+    top: 2%;
+    width: 100%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.pic-block{
+    position: absolute;
+    top: 11%;
+    left: 1.5%;
+    height: 150px;
+    width: 400px;
+}
+.pic-block-two{
+    position: absolute;
+    top: 11%;
+    left: 35%;
+    height: 150px;
+    width: 400px;
+}
+.pic-block-three{
+    position: absolute;
+    top: 11%;
+    right: 1.5%;
+    height: 150px;
+    width: 400px;
+}
+.image-og{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.tagger-one{
+    position: absolute;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #1c1b19;
+    font-family: gramnarrow;
+    top: 31%;
+    left: 1.5%;
+}
+.tagger-des{
+  position: absolute;
+  color: #1c1b19;
+  font-family: gramlight;
+  top: 40%;
+  left: 1.5%;
+  font-size: 1.3em;
+}
+.tagger-two{
+  position: absolute;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #1c1b19;
+  font-family: gramnarrow;
+  top: 31%;
+  left: 35%;
+}
+.tagger-des-two{
+  position: absolute;
+  color: #1c1b19;
+  font-family: gramlight;
+  top: 40%;
+  left: 35%;
+  font-size: 1.3em;
+}
+.tagger-three{
+  position: absolute;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #1c1b19;
+  font-family: gramnarrow;
+  top: 31%;
+  left: 69.3%;
+}
+.tagger-des-three{
+  position: absolute;
+  color: #1c1b19;
+  font-family: gramlight;
+  top: 40%;
+  left: 69.3%;
+  font-size: 1.3em;
+}
+.name{
+  position: absolute;
+  color: #c5bdb4;
+  font-family: scari;
+  font-size: 25em;
+  text-align: center;
+  text-transform: uppercase;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.name-block{
+  background-color: #1c1b19;
+  position: absolute;
+  height: 400px;
+  top: 86%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 97%;
+}

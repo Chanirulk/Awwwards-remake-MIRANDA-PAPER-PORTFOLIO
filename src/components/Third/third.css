@@ -1,0 +1,139 @@
+.third{
+    height: 100vh;
+}
+.pic-side-boc{
+    position: absolute;
+    height: 470px;
+    width: 460px;
+    left: 2%;
+    margin-top: -8%;
+}
+.boc-fill{
+    position: absolute;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.third-line{
+    margin-top: 10%;
+    right: 3%;
+    width: 53%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.third-line-two{
+    margin-top: 19%;
+    right: 3%;
+    width: 53%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.third-line-three{
+    margin-top: 28%;
+    right: 3%;
+    width: 53%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.third-line-four{
+    margin-top: 38%;
+    right: 3%;
+    width: 53%;
+    height: 47px;
+    border-bottom: 1px solid #1c1b19;
+    position: absolute;
+}
+.text-one{
+    position: absolute;
+    font-size: 5.5em;
+    color: #1c1b19;
+    text-transform: uppercase;
+    font-family: scari;
+    margin-top: 12%;
+    left: 43%;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.text-two{
+    position: absolute;
+    font-size: 5.5em;
+    color: #1c1b19;
+    text-transform: uppercase;
+    font-family: scari;
+    margin-top: 21%;
+    left: 43%;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.text-three{
+    position: absolute;
+    font-size: 5.5em;
+    color: #1c1b19;
+    text-transform: uppercase;
+    font-family: scari;
+    margin-top: 30%;
+    left: 43%;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.text-four{
+    position: absolute;
+    font-size: 5.5em;
+    color: #1c1b19;
+    text-transform: uppercase;
+    font-family: scari;
+    margin-top: 38%;
+    left: 43%;
+    transform: scale(1, 1.5);
+    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
+    -moz-transform: scale(1, 1.5); /* Firefox */
+    -ms-transform: scale(1, 1.5); /* IE 9+ */
+    -o-transform: scale(1, 1.5); /* Opera */
+}
+.block-a{
+    position: absolute;
+    height: 98px;
+    width: 62px;
+    background-color: #1c1b19;
+    left: 2%;
+    margin-top: 30%;
+}
+.block-a-let{
+    position: relative;
+    text-transform: uppercase;
+    color: #c5bdb4;
+    font-size: 6em;
+    font-family: albaz;
+    margin-top: 1%;
+    left: 5%;
+}
+.text-ablaz{
+    position: absolute;
+    font-size: 2.5em;
+    font-family: gramlight;
+    margin-top: 29%;
+    left: 7%;
+    text-align: justify;
+    color: #1c1b19;
+}
+.ablaz-two{
+    position: absolute;
+    font-size: 2.5em;
+    font-family: gramlight;
+    margin-top: 39%;
+    left: 2%;
+    text-align: justify;
+    color: #1c1b19;
+}
