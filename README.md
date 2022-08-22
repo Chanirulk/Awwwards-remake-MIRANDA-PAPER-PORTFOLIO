@@ -3,7 +3,8 @@
 
 # About the AUTHOR
 
-Follow on Instagram - @chaniru.lk 
+<h1>Follow on Instagram - @chaniru.lk</h1>
+
 For more designs and inspiring website development /
 awwwards remakes :-)
 
