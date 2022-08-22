@@ -1,5 +1,5 @@
 # This Website was crafted by - @chaniru.lk - Instagram
-![Screenshot](./src/assets/screenshot.png)
+![Screenshot](./src/components/assets/screenshot.png)
 
 # About the AUTHOR
 
